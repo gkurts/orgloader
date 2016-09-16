@@ -1,0 +1,7 @@
+{
+    "baseurl": "https://api.cbbbtest.com/",
+    "startingOrgId": 500,
+    "numberOfOrgs": 1,
+    "bureauCode": "0925",
+    "token": ""
+}
